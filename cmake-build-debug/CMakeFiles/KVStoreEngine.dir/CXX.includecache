@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shainvol/CLionProjects/KVStoreEngine/main.cpp
+skiplist.h
+C:/Users/shainvol/CLionProjects/KVStoreEngine/skiplist.h
+
+C:/Users/shainvol/CLionProjects/KVStoreEngine/skiplist.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+string
+-
+

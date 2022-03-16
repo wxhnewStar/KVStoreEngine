@@ -1,0 +1,3 @@
+C:/Users/shainvol/CLionProjects/KVStoreEngine/cmake-build-debug/CMakeFiles/KVStoreEngine.dir
+C:/Users/shainvol/CLionProjects/KVStoreEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shainvol/CLionProjects/KVStoreEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
